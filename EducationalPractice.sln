@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задание 1", "задание 1\задание 1.csproj", "{EB4CDC94-C6B0-41CE-B2FB-C78987EBDA48}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задание 1 (консоль)", "задание 1 (консоль)\задание 1 (консоль).csproj", "{50013FE0-1E21-4F91-B599-3A548958148B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "задание 2", "..\..\..\..\Desktop\архив курсов\1 курс\практика\задание 2\ооо\задание 2.csproj", "{8239A0DD-8812-423E-A1FD-1CEAA76D34A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{50013FE0-1E21-4F91-B599-3A548958148B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50013FE0-1E21-4F91-B599-3A548958148B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50013FE0-1E21-4F91-B599-3A548958148B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8239A0DD-8812-423E-A1FD-1CEAA76D34A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8239A0DD-8812-423E-A1FD-1CEAA76D34A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8239A0DD-8812-423E-A1FD-1CEAA76D34A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8239A0DD-8812-423E-A1FD-1CEAA76D34A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
